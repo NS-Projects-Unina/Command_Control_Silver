@@ -1,7 +1,7 @@
 # GhostHunting
 Analysis of the behavior of a C2 framework (Sliver) in a network monitored by a firewall and an IDS (Suricata), simulating the entire environment on Docker.
 
-> 💡 Please note that this is just a high-level overview. For a complete and in-depth look at the analysis, refer to the official documentation. (`/docs/documentaion.pdf`).
+> 💡 Please note that this is just a high-level overview. For a complete and in-depth look at the analysis, refer to the official documentation (`/docs/documentaion.pdf`).
 
 > **Course:** Network Security (2025/2026)
 
